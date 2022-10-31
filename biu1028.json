@@ -2,17 +2,17 @@
   "Home": [
     {
       "key": "采集",
-      "title": "采集站",
+      "title": "影视",
       "pic": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/biu/B1.png"
     },
     {
       "key": "网页",
-      "title": "自定义",
+      "title": "网页",
       "pic": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/biu/B2.png"
     },
     {
       "key": "APP",
-      "title": "主页接口",
+      "title": "采集",
       "pic": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/biu/B3.png"
     },
     {
